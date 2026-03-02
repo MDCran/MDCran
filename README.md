@@ -1,3 +1,3 @@
 <a href="https://mdcran.com">
-  <img src="github_profile.png" width="600">
+  <img src="github_profile.png">
 </a>
